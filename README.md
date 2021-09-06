@@ -20,5 +20,6 @@ List of journals in the machine learning, data-science, computer vision, biomedi
 * Physics in Medicine & Biology (IOP) https://iopscience.iop.org/journal/0031-9155 (impact-factor: 3.609, cite-score: 5.9)
 * INTERNATIONAL JOURNAL BIOAUTOMATION http://biomed.bas.bg/bioautomation/ (free, scopus, open-access)
 * International Journal of Computer Vision & Signal Processing http://cennser.org/IJCVSP/ (free, open-access)
+* Journal of Skin and Stem Cell https://sites.kowsarpub.com/jssc/index.html (free, skin and stem research, Tehran)
 
 
